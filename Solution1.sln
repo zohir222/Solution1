@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PortfolioProject", "PortfolioProject", "{C96397C1-AB40-4FB2-A4A8-CF582270718F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portfolio3", "..\..\Portfolio333\Portfolio3\Portfolio3.csproj", "{94AAFDAC-8770-497B-83A4-850F906185A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94AAFDAC-8770-497B-83A4-850F906185A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AAFDAC-8770-497B-83A4-850F906185A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AAFDAC-8770-497B-83A4-850F906185A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AAFDAC-8770-497B-83A4-850F906185A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{94AAFDAC-8770-497B-83A4-850F906185A7} = {C96397C1-AB40-4FB2-A4A8-CF582270718F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E49049E-3AA8-4278-BB54-94EE1C5DC583}
+	EndGlobalSection
+EndGlobal
